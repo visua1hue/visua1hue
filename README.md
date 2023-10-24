@@ -4,7 +4,7 @@
 Metrics created with https://metrics.lecoq.io/
 -->
 ## Forword
-I'm a Developer on an **enchanting quest** ✨ to expand my skills by a magical 1% every day. ****Certified CSE** since late 2022' - with primary focus on software development.
+I'm a Developer on an **enchanting quest** ✨ to expand my skills by a magical 1% every day. **Certified CSE** since late 2022' - with primary focus on software development.
 
 —
 
