@@ -4,7 +4,7 @@
 Metrics created with https://metrics.lecoq.io/
 -->
 ## Foreword
-I'm a Developer on an **enchanting quest** ✨ to expand my skills by a magical 1% every day. **Certified CSE** since late 2022' - with primary focus on software development.
+🐱 **Kon'nichiwa!** I'm a Developer on an **enchanting quest** ✨ to expand my skills by a magical 1% every day. **Certified CSE** since late 2022' - with primary focus on software development.
 
 
 
@@ -21,7 +21,3 @@ I'm a Developer on an **enchanting quest** ✨ to expand my skills by a magical 
 >![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 >![Postgres](https://img.shields.io/badge/postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 >![Supabase](https://img.shields.io/badge/supabase-%23000000.svg?style=for-the-badge&logo=supabase&logoColor=white)
-
-
-
-![Metrics](https://metrics.lecoq.io/visua1hue?template=classic&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FBerlin)
