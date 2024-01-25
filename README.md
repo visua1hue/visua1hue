@@ -3,7 +3,7 @@
 -->
 
 ## Foreword
-🐱 **Kon'nichiwa!** I'm a Developer on an **enchanting quest** ✨ to expand my skills by a magical 1% every day. **Certified CSE** since late 2022' - with primary focus on software development.
+**Kon'nichiwa!** I'm a Developer on an **enchanting quest** ✨ to expand my skills by a magical 1% every day. **Certified CSE** since late 2022' - with primary focus on software development.
 
 
 
