@@ -17,3 +17,5 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%23000000.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+I'm always open to collaboration, discussions, and connecting with fellow developers - feel free to reach out. For a comprehensive list of my social links, visit my [Bento](https://bento.me/visua1hue).
