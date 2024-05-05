@@ -3,9 +3,9 @@
 -->
 
 ## About
-**Kon'nichiwa!** I'm a Dev with a creative mind, using code to drive progress and make a positive impact. **Certified CSE** since late 2022' - with primary focus on software development.
+**Kon'nichiwa! 💜** I'm a Dev with a creative mind, using code to drive progress and make a positive impact. **Certified CSE** since late 2022' - with primary focus on software development.
 
-I'm always open to collaboration, discussions, and connecting with fellow developers - feel free to reach out. For a comprehensive list of my social links, visit my [Bento](https://bento.me/visua1hue).
+I'm always open to collaboration, discussions, and connecting with fellow developers - feel free to `ping` me on [Twitter](https://twitter.com/visua1hue) or [LinkedIn](https://www.linkedin.com/in/michaelhuebel/).
 
 
 ## Languages & Activity
