@@ -3,7 +3,7 @@
 -->
 
 ## About
-**Kon'nichiwa! 💜** I'm a Dev with a creative mind, using code to drive progress and make a positive impact. **Certified CSE** since late 2022' - with primary focus on software development.
+**Kon'nichiwa!** I'm a Dev with a creative mind, using code to drive progress and make a positive impact. **Certified CSE** (Computational Science Expert) since late 2022' - with primary focus on software development.
 
 I'm always open to collaboration, discussions, and connecting with fellow developers - feel free to `ping` me on [Twitter](https://twitter.com/visua1hue) or [LinkedIn](https://www.linkedin.com/in/michaelhuebel/).
 
