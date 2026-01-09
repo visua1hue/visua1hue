@@ -17,7 +17,7 @@ Certified CSE (Computational Science Expert) since late 2022' - with primary foc
 [PostgreSQL] [Elasticsearch]  
 [Rust]
 
-——
+—
 
 /SOCIAL
 
